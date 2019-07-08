@@ -5,5 +5,5 @@
 raw/3LB-CAST
 raw/CESS-CAST-A
 raw/CESS-CAST-AA
-raw/CESS-CAST-
-model/word2vec_model_ancora.txt
+raw/CESS-CAST-P
+model/char2vec_model_ancora.txt
