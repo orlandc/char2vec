@@ -1,2 +1,2 @@
-# char2vec
+# Char2vec
 char2vec
