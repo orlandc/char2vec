@@ -54,4 +54,5 @@ word2vec_model = Word2Vec(
     min_count=min_word_count, 
     window=context_size)
 
-word2vec_model.wv.save_word2vec_format('model/char2vec_model_ancora3.txt', binary=False)
+word2vec_model.wv.save_word2vec_format('model/char2vec_model_ancora2.txt', binary=False)
+word2vec_model.wv.save_word2vec_format('model/char2vec_model_ancora2.bin', binary=True)
