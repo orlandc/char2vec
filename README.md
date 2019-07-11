@@ -16,4 +16,5 @@ El resultado que tiene este algoritmo es que los caracteres que aparecen en cont
 
 | Implementación a nivel de palabras | Implementación a nivel de Oraciones |
 | :----:                             | :----:                              |
-| ![Texto alternativo](/img/emb1.png)| ![Texto alternativo](/img/emb2.png) |
+| (/img/emb1.png)                    | (/img/emb2.png)                     |
+| (/img/emb1-multi.png)              | (/img/emb2-multi.png)               |
