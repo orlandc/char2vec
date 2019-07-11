@@ -6,6 +6,14 @@ This code implements the skip-gram algorithm to find vector representations for 
 
 The result this algorithm has is that characters which appear in similar contexts will have similar encodings. For example, vowels often appear in similar contexts, so we would expect them to have similar encodings.
 
+### Results
+
+| Implementation word level               | Implementation sentences level           |
+| :----:                                  | :----:                                   |
+| ![Cluster character 1](/img/emb1.png)   | ![Cluster character 2](/img/emb2.png)    |
+| ![Multidim.Rep. 1](/img/emb1-multi.png) | ![Multidim. Rep. 2](/img/emb2-multi.png) |
+
+
 ## Spanish
 
 Este código implementa el algoritmo skip-gram para encontrar representaciones vectoriales para las letras del alfabeto. Lo hace tomando un cuerpo de texto (almacenado en la carpeta /raw) y entrenando una red neuronal poco profunda para predecir los caracteres c_(n-1) y c_(n + 1) dado c_n. En esta implementación, se usa el modelo word2vec de la librería gensim, el cual tiene como entrada representaciones vectoriales de caracteres.
