@@ -14,7 +14,7 @@ El resultado que tiene este algoritmo es que los caracteres que aparecen en cont
 
 ### Resultados
 
-| Implementación a nivel de palabras | Implementación a nivel de Oraciones |
-| :----:                             | :----:                              |
-| [img1]: /img/emb1.png              | [img2]: /img/emb2.png               |
-| [img3]: /img/emb1-multi.png        | [img4]: /img/emb2-multi.png         |
+| Implementación a nivel de palabras          | Implementación a nivel de Oraciones      |
+| :----:                                      | :----:                                   |
+| ![Cluster Caracteres 1](/img/emb1.png)      | ![Cluster Caracteres 2](/img/emb2.png)   |
+| ![Rep. Multidim. 1](/img/emb1-multi.png)    | ![Rep. Multidim. 2](/img/emb2-multi.png) |
