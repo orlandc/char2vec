@@ -8,7 +8,7 @@ The result this algorithm has is that characters which appear in similar context
 
 ### Results
 
-| Implementation word level               | Implementation sentences level           |
+| word level Implementation               | Sentences level Implementation           |
 | :----:                                  | :----:                                   |
 | ![Cluster character 1](/img/emb1.png)   | ![Cluster character 2](/img/emb2.png)    |
 | ![Multidim.Rep. 1](/img/emb1-multi.png) | ![Multidim. Rep. 2](/img/emb2-multi.png) |
